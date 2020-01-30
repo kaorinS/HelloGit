@@ -3,3 +3,5 @@ branch
 developに移動したよ！
 これはnewsでの変更だよ！
 githubへGo
+とりあえず変えてみる
+VSCode
