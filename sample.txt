@@ -2,3 +2,4 @@ Hello Git
 branch
 developに移動したよ！
 これはnewsでの変更だよ！
+githubへGo
